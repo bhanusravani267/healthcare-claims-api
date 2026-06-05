@@ -179,7 +179,7 @@ if claims_data and claims_data['data']:
 st.markdown("---")
 st.markdown(
     "Built by **Bhanu Mudireddy** | "
-    "Technical BA → Data Engineer | "
+    "Technical BA | "
     "[GitHub](https://github.com/bhanusravani267) | "
     "[LinkedIn](https://linkedin.com/in/bhanu-mudireddy)"
 )
