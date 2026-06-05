@@ -127,6 +127,6 @@ Built to mirror real-world Healthcare IT workflows:
 
 ---
 
-*Built by Bhanu Mudireddy — Technical BA → Data Engineer | Healthcare IT*
+*Built by Bhanu Mudireddy — Technical BA | Healthcare IT*
 *[LinkedIn](https://linkedin.com/in/bhanu-mudireddy) | 
 [GitHub](https://github.com/bhanusravani267)*
